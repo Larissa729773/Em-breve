@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(79, 79, 255);
+}
+.intro{
+  font-size: 15px;
+  color: azure;
+  text-align: center;
+  margin-top: 205px;
+  font-weight: bold;
+}
+.name{
+  color: rgb(255, 197, 50);
+  font-size: 90px;
+  text-align: center;
+  margin-top: 10px;
+}
+.informação{
+  color: rgb(202, 202, 202);
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+.saibamais{
+  color: bisque;
+  font-size: 27px;
+  margin-top: 130px;
+  margin-left: 250px;
+  text-decoration: underline;
+} 
+.embreve{
+  margin-left:500px;
+ margin-bottom:100px;
+  margin-top:-30px;
+  background-color: darkgoldenrod;
+  height: 40px;
+  width: 238px;
+  font-size:22px;
+  text-align:center;}
+  
+.Inez{
+  text-align: center;  
+  color: aliceblue;
+  font-size:30px;
+  margin-top:170px;
+}
